@@ -1,4 +1,4 @@
-# **Hi, I'm Cristhian Mucho (CristhianmDev)** 👨‍💻  
+# **Hi, I'm Cristhian  (CristhianmDev)** 👨‍💻  
 ### **Software Engineering Student | Future Full-Stack Developer**  
 
 📚 Currently pursuing a **Software Engineering degree**  
